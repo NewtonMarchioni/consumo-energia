@@ -1,4 +1,4 @@
-# Calculadora de Consumo Elétrico Inteligente #
+⚙️ Calculadora de Consumo Elétrico Inteligente #
 
 Este projeto em Python, foi criado para praticar o ciclo **Entrada → Processamento → Saída**
 
