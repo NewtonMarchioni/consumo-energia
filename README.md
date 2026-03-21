@@ -11,8 +11,8 @@ Este projeto, em Python, foi criado para praticar o ciclo **Entrada → Processa
 📌 Foram incluídos dois novos comandos para o resultado ser apresentado em caixa alta .upper() e eliminação de espaços indesejáveis .strip().
 
 👾 Fórmulas para os cálculos:
-1. Cálculo do consumo mensal em KWh | consumoMensal = (potencia * horasDia * 30) // 1000
-2. Cálculo do custo mensal estimado | custo = consumoMensal * 0.75 
+1. Cálculo do consumo mensal em KWh → consumoMensal = (potencia * horasDia * 30) // 1000
+2. Cálculo do custo mensal estimado → custo = consumoMensal * 0.75 
 
 📋 Instruções:
 1. Informe o nome do equipamento (texto);
